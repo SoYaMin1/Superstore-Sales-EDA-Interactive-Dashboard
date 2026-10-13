@@ -139,7 +139,6 @@ streamlit run app/streamlit_app.py
 
 ## Автор
 
-**Твоё Имя**
 - GitHub: [SoYaMin1](https://github.com/SoYaMin1)
 - Email: pandawow0700148815@gmail.com
 ---
